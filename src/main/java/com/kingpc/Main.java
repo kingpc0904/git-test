@@ -10,5 +10,6 @@ public class Main {
         System.out.println("hot-fix test!");
         System.out.println("gitee test");
         System.out.println("github test");
+        System.out.println("pull test");
     }
 }
